@@ -8,3 +8,11 @@ const connection = mysql.createConnection({
     password: "athletics12",
     user: "root"
 })
+
+
+connection.connect(err => {
+    if (err) throw err
+    else {
+        init()
+    }
+})
