@@ -90,8 +90,9 @@ Below are the following technologies and applications utilized to help build the
 
 VS Code<br>
 JavaScript<br>
-HTML<br>
-CSS<br>
+Node<br>
+MySQL2<br>
+Inquirer<br>
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -110,8 +111,14 @@ Below you'll be able to see screen shots of the deployed app. You can also view 
 
 Here's a screen shot of what the app looks like when someone starts it.
 
-![](./assets/images/weather_dashboard_example.png)
-
+![](./images/1_start.png)
+![](./images/2_view_departments.png)
+![](./images/3_view_roles.png)
+![](./images/4_view_employees.png)
+![](./images/5_adding_department.png)
+![](./images/6_viewing_added_department.png)
+![](./images/7_adding_new_role.png)
+![](./images/8_new_role_added.png)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -127,10 +134,8 @@ Here's a screen shot of what the app looks like when someone starts it.
     - [ ] Employee data
     - [ ] Employee ID
     - [ ] Salary
-    - [ ] Current icon showing the weather condition
-    - [ ] Current weather description
-    - [ ] Current wind pattern
-    - [ ] Current humidity
+- [ ] A user can add a role with department id and salary
+- [ ] A user can view all departments with updated changes
 
 See the [open issues](https://github.com/danpoggetti/employee-tracker/issues) for a full list of proposed features (and known issues).
 
