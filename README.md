@@ -79,8 +79,6 @@ THEN I am prompted to enter the employee’s first name, last name, role, and ma
 WHEN I choose to update an employee role
 THEN I am prompted to select an employee to update and their new role and this information is updated in the database
 
-![](./assets/images/weather_dash.png)<br>
-
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
@@ -108,6 +106,9 @@ Below you'll be able to see screen shots of the deployed app. You can also view 
 
 <!-- USAGE EXAMPLES -->
 ## Usage
+
+Here's a video tutorial on how to use the app:<br>
+<a href="https://drive.google.com/file/d/1Zq4aYkLg1-JVaUh16yWv3aDe4WyT0rsf/view">View Tutorial</a><br><br>
 
 Here's a screen shot of what the app looks like when someone starts it.
 
