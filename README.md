@@ -12,7 +12,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-    <img src="./assets/images/logo.png" alt="Logo" width="80" height="80">
+    <img src="./images/logo.png" alt="Logo" width="80" height="80">
 
   <h3 align="center">Employee Tracker README</h3>
 
@@ -57,15 +57,27 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-I was tasked to create a weather dashboard app so that a user can see the weather forecast for multiple cities so that they can plan a trip accordingly.
+I was tasked to create a employee tracker app so that a business owner can:
+Can view and manage the departments, roles, and employees in my company
+SO THAT I can organize and plan my business
 
-I want a user to be able to:
-<ol>
-<li>When a user searchs for a city:<br>They are presented with the current and future weather conditions for the searched city and that city searched gets placed into a search history.</li>
-<li>When a user views the current weather conditions for the city:<br>They are presented with the city name, the date, an icon representation of weather conditions, the temperature, the humidity, and the wind speed.</li>
-<li>When a user views future weather condtions for that city:<br>They are presented with a 5-day forecast that displays the date, an icon representing weather condtions, the temperature, the wind speed, and the humidity.</li>
-<li>When a user clicks on a city in the search history:<br>They will be presented with current and future conditions for the city.</li>
-</ol>
+GIVEN a command-line application that accepts user input
+WHEN I start the application
+THEN I am presented with the following options: view all departments, view all roles, view all employees, add a department, add a role, add an employee, and update an employee role
+WHEN I choose to view all departments
+THEN I am presented with a formatted table showing department names and department ids
+WHEN I choose to view all roles
+THEN I am presented with the job title, role id, the department that role belongs to, and the salary for that role
+WHEN I choose to view all employees
+THEN I am presented with a formatted table showing employee data, including employee ids, first names, last names, job titles, departments, salaries, and managers that the employees report to
+WHEN I choose to add a department
+THEN I am prompted to enter the name of the department and that department is added to the database
+WHEN I choose to add a role
+THEN I am prompted to enter the name, salary, and department for the role and that role is added to the database
+WHEN I choose to add an employee
+THEN I am prompted to enter the employee’s first name, last name, role, and manager, and that employee is added to the database
+WHEN I choose to update an employee role
+THEN I am prompted to select an employee to update and their new role and this information is updated in the database
 
 ![](./assets/images/weather_dash.png)<br>
 
