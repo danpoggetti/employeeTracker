@@ -19,14 +19,14 @@
   <p align="center">
     Welcome to the Employee Tracker README, a great spot to get to know this project!
     <br />
-    <a href="https://github.com/danpoggetti/employee-tracker"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/danpoggetti/employeeTracker"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://danpoggetti.github.io/employee-tracker/">View Demo</a>
+    <a href="https://danpoggetti.github.io/employeeTracker/">View Demo</a>
     ·
-    <a href="https://github.com/danpoggetti/employee-tracker/issues">Report Bug</a>
+    <a href="https://github.com/danpoggetti/employeeTracker/issues">Report Bug</a>
     ·
-    <a href="https://github.com/danpoggetti/employee-tracker/issues">Request Feature</a>
+    <a href="https://github.com/danpoggetti/employeeTracker/issues">Request Feature</a>
   </p>
 </div>
 
@@ -138,7 +138,7 @@ Here's a screen shot of what the app looks like when someone starts it.
 - [ ] A user can add a role with department id and salary
 - [ ] A user can view all departments with updated changes
 
-See the [open issues](https://github.com/danpoggetti/employee-tracker/issues) for a full list of proposed features (and known issues).
+See the [open issues](https://github.com/danpoggetti/employeeTracker/issues) for a full list of proposed features (and known issues).
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -178,9 +178,9 @@ See License.text for more information.
 
 Dan Poggetti - GitHub [https://github.com/danpoggetti]
 
-Project Link: [https://github.com/danpoggetti/employee-tracker]
+Project Link: [https://github.com/danpoggetti/employeeTracker]
 
-Demo Link: [https://danpoggetti.github.io/employee-tracker/]
+Demo Link: [https://danpoggetti.github.io/employeeTracker/]
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -206,14 +206,14 @@ I want to acknowledge the many great and vast resouces that adided us in creatin
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[contributors-shield]: https://img.shields.io/github/contributors-anon/danpoggetti/employee-tracker?style=for-the-badge
-[contributors-url]: https://github.com/danpoggetti/employee-tracker/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/danpoggetti/employee-tracker?style=for-the-badge
-[forks-url]: https://github.com/danpoggetti/employee-tracker/network/members
-[stars-shield]: https://img.shields.io/github/stars/danpoggetti/employee-tracker?style=for-the-badge
-[stars-url]: https://github.com/danpoggetti/employee-tracker/stargazers
-[issues-shield]: https://img.shields.io/github/issues/danpoggetti/employee-tracker?style=for-the-badge
-[issues-url]: https://github.com/danpoggetti/employee-tracker/issues
-[license-shield]: https://img.shields.io/github/license/danpoggetti/employee-tracker?style=for-the-badge
-[license-url]: https://github.com/danpoggetti/employee-tracker/blob/main/LICENSE
+[contributors-shield]: https://img.shields.io/github/contributors-anon/danpoggetti/employeeTracker?style=for-the-badge
+[contributors-url]: https://github.com/danpoggetti/employeeTracker/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/danpoggetti/employeeTracker?style=for-the-badge
+[forks-url]: https://github.com/danpoggetti/employeeTracker/network/members
+[stars-shield]: https://img.shields.io/github/stars/danpoggetti/employeeTracker?style=for-the-badge
+[stars-url]: https://github.com/danpoggetti/employeeTracker/stargazers
+[issues-shield]: https://img.shields.io/github/issues/danpoggetti/employeeTracker?style=for-the-badge
+[issues-url]: https://github.com/danpoggetti/employeeTracker/issues
+[license-shield]: https://img.shields.io/github/license/danpoggetti/employeeTracker?style=for-the-badge
+[license-url]: https://github.com/danpoggetti/employeeTracker/blob/main/LICENSE
 [product-screenshot]: images/screenshot.png
